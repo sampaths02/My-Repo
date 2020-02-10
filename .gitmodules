@@ -1,3 +1,6 @@
 [submodule "Enbridge-dotNet"]
 	path = Enbridge-dotNet
 	url = git@github.com:sampaths02/Enbridge-dotNet.git
+[submodule "DotNet-Core"]
+	path = DotNet-Core
+	url = git@github.com:sampaths02/DotNet-Core.git
