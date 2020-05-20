@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Azure Pipeline'
+  vmImage: 'Default'
 
 variables:
   buildConfiguration: 'Release'
